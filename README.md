@@ -1,29 +1,29 @@
 # 👋 Welcome to My GitHub Profile
 
-Hi, I'm [Your Name] — a software developer passionate about building scalable solutions, exploring emerging technologies, and writing clean, maintainable code.  
+Hi, I'm Tshephang — a software developer passionate about building scalable solutions, exploring emerging technologies, and writing clean, maintainable code.  
 This space showcases my projects, contributions, and continuous learning journey.
 
 ---
 
 ## 💼 About Me
-- 🔹 Experienced in full-stack development with a focus on [your specialties, e.g., web apps, APIs, cloud solutions]
-- 🔹 Strong background in [your key skills, e.g., Python, JavaScript, React, Node.js, SQL]
+- 🔹 Experienced in full-stack development with a focus on Web Apps
+- 🔹 Strong background in JavaScript, React, Node.js, Vue
 - 🔹 Enthusiastic about open-source collaboration and knowledge sharing
 - 🔹 Lifelong learner committed to professional growth and innovation
 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, JavaScript/TypeScript, C++
-- **Frameworks & Libraries:** React, Node.js, Django, Express
+- **Languages:** JavaScript/TypeScript, Java
+- **Frameworks & Libraries:** React, Node.js, Django, Express, Vue
 - **Tools & Platforms:** Git, Docker, AWS, VS Code
 - **Databases:** PostgreSQL, MongoDB, MySQL
 
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tshephangjs&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tshephangjs&layout=compact&theme=default)
 
 ---
 
@@ -35,9 +35,9 @@ This space showcases my projects, contributions, and continuous learning journey
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
+- 💼 [LinkedIn](https://linkedin.com/in/tshephangmampa)
 - 🌐 [Portfolio](https://yourwebsite.com)
-- 📧 Email: yourname@example.com
+- 📧 Email: tmampa94@gmail.com
 
 ---
 
